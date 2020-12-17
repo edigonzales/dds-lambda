@@ -6,3 +6,4 @@
 - SES
 - S3-Trigger in create-Skript?
 - Wie deployen? sam oder shellskript?
+- (dds) Grundidee verschriftlichen und Gegencheck mit heutigen und bekannten zukünftigen Usecases.
