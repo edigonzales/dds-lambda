@@ -6,4 +6,9 @@
 - SES
 - S3-Trigger in create-Skript?
 - Wie deployen? sam oder shellskript?
-- (dds) Grundidee verschriftlichen und Gegencheck mit heutigen und bekannten zukünftigen Usecases.
+- (dds) Grundidee verschriftlichen und Gegencheck mit heutigen und bekannten zukünftigen Usecases
+  * AV-Import (theoretisch, nicht absehbar ohne infogrips)
+  * Elektro-LK
+  * Bestehende LK
+  * NPL
+  * Meldesystem 2.0 (AV)
